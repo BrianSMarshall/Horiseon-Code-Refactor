@@ -30,6 +30,7 @@ This is a code refactor for Horiseon's landing page.  Horiseon requested this up
 ## Deployment
 
 [Click here for page](https://briansmarshall.github.io/Horiseon-Code-Refactor/)
+
 [Github link](https://github.com/BrianSMarshall/Horiseon-Code-Refactor.git)
 
   
