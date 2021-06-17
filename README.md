@@ -1,26 +1,36 @@
 
-Horiseon Code Refactor
+Horiseon Code Refactor 
 
-This is a code refactor for Horiseon's landing page.  Horiseon requested this update based on a mark-up image with the purpose of making the landing page more accessible.  
+ 
+ 
 
+This is a code refactor for Horiseon's landing page.  Horiseon requested this update based on a mark-up image with the purpose of making the landing page more accessible.   
 
-## Optimizations
+ 
+ 
+ 
 
-- HTML and CSS code was brought to accessability standards
-- Excess code was consolidated
-- Generic HTML elements were replaced with semantic elements
-- CSS structure was organised and catagorized with commentary
-- HTML structure was organised and catagorized with commentary
-- A title was added to the browser tab
+## Optimizations 
 
+ 
+ 
+
+- HTML and CSS code was brought to accessibility standards 
+
+- Excess code was consolidated 
+
+- Generic HTML elements were replaced with semantic elements 
+
+- CSS structure was organized and categorized with commentary 
+
+- HTML structure was organized and categorized with commentary 
+
+- A title was added to the browser tab 
   
 ## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
+[Click here for page](https://briansmarshall.github.io/Horiseon-Code-Refactor/)
+[Github link](https://github.com/BrianSMarshall/Horiseon-Code-Refactor.git)
 
   
 ## Screenshots
